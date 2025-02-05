@@ -20,14 +20,18 @@
 		},
 		{
 			"Name": "FMODStudio",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "FMODStudioNiagara",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "MotionWarping",
 			"Enabled": true
 		}
 	]
